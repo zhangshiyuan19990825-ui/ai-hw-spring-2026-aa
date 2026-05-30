@@ -1,0 +1,8 @@
+Weights Summary
+
+The trained CNN model weights are saved in the results/weights folder.
+
+File:
+- cnn.pt: trained weights for the CNN model used in adversarial attack testing
+
+The CNN weights were learned from the MNIST training set. During the adversarial attack, these weights were fixed. The attack changed the input images, not the model weights.

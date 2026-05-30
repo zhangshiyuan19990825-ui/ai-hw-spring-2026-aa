@@ -1,0 +1,4 @@
+model,epoch,clean_test_accuracy_percent
+cnn,1,98.18
+cnn,2,98.59
+cnn,3,98.81
